@@ -244,19 +244,7 @@ h2 {
 
 .link1 {
     background-color: #005ea2;
-}
-.link1 a{
-    padding: 12px 30px;
-    background-color: #0078D4;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.link1:hover {
-    background-color: #005ea2;
+    text-align: center;
 }
 
 footer {
